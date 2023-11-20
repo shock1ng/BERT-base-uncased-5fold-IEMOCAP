@@ -1,4 +1,4 @@
-# BERT-base-BERT-
+# BERT-base-uncased
 这里是纯BERT的部分，调用BERT对文本进行加token再进网络，进行IEMOCAP的情感分类。
 data_pp的运行需要：
 1、安装librosa；
